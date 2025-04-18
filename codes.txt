@@ -1,1 +1,4 @@
-11-111 TEST https://dl3.soft98.ir/win/Windows.11.v23H2.Build.22631.5189.x64-VL.part1.rar?1744990917
+11-111 Visiual_Studio https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030:a4737b31e1b64dc5b7fa22b6d78a072a
+11-112 Steam https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe
+11-113 ArduinoIDE https://downloads.arduino.cc/arduino-ide/arduino-ide_2.1.0_Windows_64bit.exe
+11-114 Chrome https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BF154B159-AE7E-2137-1639-31DB31B0668F%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
